@@ -1,0 +1,19 @@
+Steps
+# Create variable suit
+# set suit equal to hearts
+# Create variable rank
+# set rank equal to k
+# Create variable value
+# set value equal 10
+# print prob
+
+Steps 2
+# Create list of suits
+# print all suits
+# Create list of ranks
+# loop cards and ranks and store in cards
+# import random and shuffle cards
+# pop cards and store in variable cards
+
+# Steps 3 Functions
+#
